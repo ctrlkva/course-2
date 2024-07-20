@@ -1,0 +1,25 @@
+C:\Users\strel\Desktop\kurs8\x64\Debug\kurs8.vcxproj.AssemblyReference.cache
+C:\Users\strel\Desktop\kurs8\x64\Debug\kurs8.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\strel\Desktop\kurs8\x64\Debug\kurs8.exe
+C:\Users\strel\Desktop\kurs8\x64\Debug\kurs8.MyForm.resources
+C:\Users\strel\Desktop\kurs8\x64\Debug\kurs8.vcxproj.GenerateResource.cache
+C:\Users\strel\Desktop\kurs8\x64\Debug\kurs8.MyForm1.resources
+C:\Users\strel\Desktop\курсовой проект\kurs8\x64\Debug\kurs8.vcxproj.AssemblyReference.cache
+C:\Users\strel\Desktop\курсовой проект\kurs8\x64\Debug\kurs8.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\strel\Desktop\курсовой проект\kurs8\x64\Debug\kurs8.MyForm.resources
+C:\Users\strel\Desktop\курсовой проект\kurs8\x64\Debug\kurs8.vcxproj.GenerateResource.cache
+C:\Users\strel\Desktop\курсовой проект\kurs8\x64\Debug\kurs8.exe
+C:\Users\strel\Desktop\курсовой проект\Пуассон\kurs8\x64\Debug\kurs8.vcxproj.AssemblyReference.cache
+C:\Users\strel\Desktop\курсовой проект\Пуассон\kurs8\x64\Debug\kurs8.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\strel\Desktop\курсовой проект\Пуассон\kurs8\x64\Debug\kurs8.MyForm.resources
+C:\Users\strel\Desktop\курсовой проект\Пуассон\kurs8\x64\Debug\kurs8.vcxproj.GenerateResource.cache
+C:\Users\strel\Desktop\курсовой проект\Пуассон\kurs8\x64\Debug\kurs8.exe
+C:\Users\strel\Desktop\портфолио\083\Абдураимова А.Ю\3 курс\КУРСОВАЯ\Пуассон\kurs8\x64\Debug\kurs8.vcxproj.AssemblyReference.cache
+C:\Users\strel\Desktop\портфолио\083\Абдураимова А.Ю\3 курс\КУРСОВАЯ\Пуассон\kurs8\x64\Debug\kurs8.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\strel\Desktop\портфолио\083\Абдураимова А.Ю\3 курс\КУРСОВАЯ\Пуассон\kurs8\x64\Debug\kurs8.MyForm.resources
+C:\Users\strel\Desktop\портфолио\083\Абдураимова А.Ю\3 курс\КУРСОВАЯ\Пуассон\kurs8\x64\Debug\kurs8.vcxproj.GenerateResource.cache
+C:\Users\strel\Desktop\портфолио\083\Абдураимова А.Ю\3 курс\КУРСОВАЯ\Пуассон\kurs8\x64\Debug\kurs8.exe
+C:\Users\strel\Desktop\портфолио\КУРСОВАЯ\Распределение Пуассона в СМО\kurs8\x64\Debug\kurs8.vcxproj.AssemblyReference.cache
+C:\Users\strel\Desktop\портфолио\КУРСОВАЯ\Распределение Пуассона в СМО\kurs8\x64\Debug\kurs8.MyForm.resources
+C:\Users\strel\Desktop\портфолио\КУРСОВАЯ\Распределение Пуассона в СМО\kurs8\x64\Debug\kurs8.vcxproj.GenerateResource.cache
+C:\Users\strel\Desktop\портфолио\КУРСОВАЯ\Распределение Пуассона в СМО\kurs8\x64\Debug\kurs8.exe
